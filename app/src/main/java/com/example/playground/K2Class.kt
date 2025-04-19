@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.playground
 
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

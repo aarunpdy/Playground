@@ -1,7 +1,6 @@
-package com.example.myapplication.ui.theme
+package com.example.playground.ui.theme
 
 import androidx.compose.runtime.Composable
-import com.example.myapplication.MainActivity
 
 /**
  * @author arun
